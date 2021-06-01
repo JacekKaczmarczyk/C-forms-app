@@ -1,0 +1,9 @@
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\bin\Debug\Zadanie 3 05 ZT.exe.config
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\bin\Debug\Zadanie 3 05 ZT.exe
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\bin\Debug\Zadanie 3 05 ZT.pdb
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie 3 05 ZT.csprojAssemblyReference.cache
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie_3_05_ZT.Form1.resources
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie_3_05_ZT.Properties.Resources.resources
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie 3 05 ZT.csproj.GenerateResource.cache
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie 3 05 ZT.exe
+C:\Users\biboj\source\repos\Zadanie 3 05 ZT\Zadanie 3 05 ZT\obj\Debug\Zadanie 3 05 ZT.pdb
